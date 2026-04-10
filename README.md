@@ -25,19 +25,6 @@ I turn live market data into **autonomous trading strategies, predictive models,
 
 ---
 
-## 🚀 Featured Projects
-
-### [TradeGenius](https://github.com/max-turner/trade-genius)  
-A modular crypto trading bot framework supporting multiple exchanges and strategies.
-
-### [MarketVision](https://github.com/max-turner/market-vision)  
-A dashboard for visualizing crypto market trends, backtesting, and predictive analysis.
-
-### [DecentralizedArb](https://github.com/max-turner/decentralized-arbitrage)  
-Automated arbitrage detection and execution across decentralized finance platforms.
-
----
-
 ## 💬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-turner)  
